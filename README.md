@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on Android Development Project
 - 📫 How to reach me fwhynseventh@gmail.com
 - Some of my Projects:
-    - https://play.google.com/store/apps/details?id=epson.print
-    - https://play.google.com/store/apps/details?id=com.epson.mobilephone.android.epsonprintserviceplugin
-    - https://play.google.com/store/apps/details?id=com.telehealtheasyaccess.mobileapp
-    - https://play.google.com/store/apps/details?id=com.nurab.nurabapp
-    - https://play.google.com/store/apps/details?id=com.epson.epsonsmart
+    - [Epson iPrint](https://play.google.com/store/apps/details?id=epson.print)
+    - [Epson Print Enabler](https://play.google.com/store/apps/details?id=com.epson.mobilephone.android.epsonprintserviceplugin)
+    - [Epson Smart Panel](https://play.google.com/store/apps/details?id=com.epson.epsonsmart)
+    - [TEA App](https://play.google.com/store/apps/details?id=com.telehealtheasyaccess.mobileapp)
+    - [ATM Sehat](https://play.google.com/store/apps/details?id=com.nurab.nurabapp)
   
 <!---
 fwhyn/fwhyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
