@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fwhyn
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin, Java, C
+- 🌱 I’m currently learning Kotlin, Java, C, TypeScript
 - 💞️ I’m looking to collaborate on Android Development Project
 - 📫 How to reach me fwhynseventh@gmail.com
 - Some of my Projects:
