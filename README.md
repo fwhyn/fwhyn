@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fwhyn
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin, Java, C, TypeScript
-- 💞️ I’m looking to collaborate on Android Development Project
+- 🌱 I’m currently learning Kotlin, Java, Dart, C++, JavaScript, TypeScript, PHP
+- 💞️ I’m looking to collaborate on an Android Development Project
 - 📫 How to reach me fwhynseventh@gmail.com
 - Some of my Projects:
     - [Epson iPrint](https://play.google.com/store/apps/details?id=epson.print)
